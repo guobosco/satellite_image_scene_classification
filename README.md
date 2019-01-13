@@ -1,1 +1,0 @@
-# satellite_image_scene_classification
