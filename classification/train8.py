@@ -14,13 +14,11 @@ set_random_seed(20)
 batch_size = 32                                         #每次进入队列张数
 classes =["agricultural","airplane","baseballdiamond",
           "beach","buildings","chaparral","denseresidential",
-          "forest","freeway","golfcourse","harbor","intersection",
-          "mediumresidential","mobilehomepark","overpass","parkinglot",
-          "river","runway","sparseresidential","storagetanks","tenniscourt"]
+          "forest"]
 num_classes = len(classes)
 
 
-train_path = "/Users/mac/Documents/GitHub/DataSet/UC_Merge_LandUse/images_uni_224"
+train_path = "/Users/mac/Documents/GitHub/DataSet/UC_Merge_LandUse/images_8"
 
 validation_size = 0.2                                   #样本率
 num_channels = 3                                        #输入图像的通道数
@@ -179,41 +177,29 @@ def train(num_iteration):
                          y_true:y_valid_batch}
 
         session.run(optimizer,feed_dict=feed_dict_tr)
-        if i % int(data.train.num_examples/batch_size) == 0:
-            loss = session.run(cost, feed_dict=feed_dict_tr)
-            loss_list.append(loss)
+        if i % int(data.train.num_examples/batch_size)==0:
             val_loss=session.run(cost,feed_dict=feed_dict_val)
             val_loss_list.append(val_loss)
             epoch = int(i/int(data.train.num_examples/batch_size))
             acc,val_acc = show_progress(epoch,feed_dict_tr,feed_dict_val,val_loss,i)
             acc_list.append(acc)
             val_acc_list.append(val_acc)
-            saver.save(session,'/Users/mac/Documents/GitHub/models/2_21/class.ckpt',global_step=i)
+            saver.save(session,'/Users/mac/Documents/GitHub/models/2_21_class8/class.ckpt',global_step=i)
 
     total_iterations += num_iteration
 print("马上开始10000次训练：(每次32张图片)")
 acc_list = []
 val_acc_list = []
 val_loss_list = []
-loss_list = []
-train(num_iteration=10000)
+train(num_iteration=100)
 acc_list = np.array(acc_list)
 val_acc_list = np.array(val_acc_list)
 val_loss_list = np.array(val_loss_list)
-ax = np.arange(1,194)
-
-
-plt.figure(12)
-plt.subplot(121)
-plt.plot(ax, acc_list, 'b', label='train_acc')
-plt.plot(ax, val_acc_list, 'r', label='test_acc')
-plt.title('UC_Merge 21 class Train and Test accuracy')
-plt.legend()
-
-plt.subplot(122)
-plt.plot(ax, loss_list, 'b', label='train_loss')
-plt.plot(ax, val_loss_list, 'r', label='test_loss')
-plt.title('UC_Merge 21 class Train and Test loss')
-plt.legend()
-plt.savefig("/Users/mac/Documents/GitHub/models/summary/train_21_class.png")
+ax = np.arange(1,20)
+plt.plot(ax,acc_list,color="blue",lw=2)
+plt.plot(ax,val_acc_list,color="red",lw=2)
+plt.xlabel("epoch")
+plt.ylabel("acc")
+plt.title("February_21_class8")
+plt.savefig("/Users/mac/Documents/GitHub/models/2_21_class8/acc_2.png")
 plt.show()
