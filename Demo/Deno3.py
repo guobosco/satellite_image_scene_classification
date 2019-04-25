@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-o = cv2.imread('/Users/mac/Desktop/Jan_23/test_img/test_img_aircraft.jpg',cv2.IMREAD_GRAYSCALE)
+o = cv2.imread('/Users/mac/Desktop/WechatIMG76.jpeg',cv2.IMREAD_GRAYSCALE)
 sobelx = cv2.Sobel(o,cv2.CV_64F,1,0,ksize=3)
 sobely = cv2.Sobel(o,cv2.CV_64F,0,1,ksize=3)
 sobelx = cv2.convertScaleAbs(sobelx)   # 转回uint8

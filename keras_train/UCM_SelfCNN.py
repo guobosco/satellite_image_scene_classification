@@ -3,6 +3,7 @@ np.random.seed(7)
 
 # 为Keras模型准备数据集
 #1，指定一些超参数：
+
 train_data_dir='/Users/mac/Documents/GitHub/DataSet/NWPU'
 val_data_dir='/Users/mac/Documents/GitHub/DataSet/NWPU_test' # keras中将测试集称为validation set
 train_samples_num=22500 # train set中全部照片数

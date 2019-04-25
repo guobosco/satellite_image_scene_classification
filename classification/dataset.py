@@ -8,10 +8,10 @@ def read_train_sets(train_path,image_size,classes,validation_size):
     class Datasets():
         pass
     data_sets = Datasets()
+
     #调用load_train函数
     images,labels,cls=load_train(train_path,image_size,classes)
     images,labels,cls=shuffle(images,labels,cls)
-
     if isinstance(validation_size,float):
         validation_size=int(validation_size*images.shape[0])
 
@@ -28,12 +28,10 @@ def read_train_sets(train_path,image_size,classes,validation_size):
 
     return data_sets
 
-
 def load_train(train_path,image_size,classes):
 
     images = []
     labels = []
-    img_names = []
     cls = []
 
     for clas in classes:
@@ -86,8 +84,6 @@ class DataSet(object):
     @property
     def epochs_done(self):
         return self._epochs_done
-
-
 
     def next_batch(self,batch_size):
 

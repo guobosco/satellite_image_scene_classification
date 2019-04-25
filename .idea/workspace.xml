@@ -2,50 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62205892-8053-4578-9157-5bfada4b0ecd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classification/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/predict_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train_class3_google_earth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train_class3_google_earth_dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classification/train_class45_google_earth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_predict/NWPU_BIG_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_predict/NWPU_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_predict/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_predict/img_cut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_train/NWPU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_train/NWPU_vgg16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_train/NWPU_vgg16_FineTune.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keras_train/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/54342.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keras_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keras_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keras_test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keras_test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keras_test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/keres_test_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgg16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/Demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keras_train/UCM_SelfCNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/Deno3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Deno3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras_train/NWPU.py" beforeDir="false" afterPath="$PROJECT_DIR$/keras_train/NWPU.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,178 +65,105 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="226646933">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="34" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="8" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="5" />
-          <entry key="project.open.time.16" value="3" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.18" value="3" />
-          <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="37" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="py" value="217" />
-          <entry key="ui" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="217" />
-          <entry key="Qt UI file" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="NWPU_vgg16" value="7" />
-          <entry key="Python Console" value="18" />
-          <entry key="datamaker" value="37" />
-          <entry key="new_train" value="28" />
-          <entry key="normalize" value="2067" />
-          <entry key="py" value="24970" />
-          <entry key="test10" value="7" />
-          <entry key="test12" value="37" />
-          <entry key="test13" value="7" />
-          <entry key="test18" value="16" />
-          <entry key="test20" value="5" />
-          <entry key="test22" value="83" />
-          <entry key="test3" value="5" />
-          <entry key="test4" value="59" />
-          <entry key="test5" value="27" />
-          <entry key="test8" value="1" />
-          <entry key="train" value="5" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="27379" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="satellite_image_scene_classification" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classification/predict_UI.py">
+        <entry file="file://$PROJECT_DIR$/keras_train/UCM_SelfCNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_UI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1166">
+              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_BIG_UI.py">
+        <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="258">
+              <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keras_train/NWPU.py">
+        <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16_FineTune.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="56" />
+              <caret line="17" selection-end-line="116" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classification/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test6.py">
+        <entry file="file://$PROJECT_DIR$/pretreatment/resize_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="2244">
+              <caret line="104" column="76" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/keras_test5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keras_predict/img_cut.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test7.py">
+        <entry file="file://$PROJECT_DIR$/test/test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classification/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="32" selection-start-line="32" selection-end-line="38" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/Demo4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_BIG_UI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classification/train_class3_google_earth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -312,10 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/uniformization.py" />
-        <option value="$PROJECT_DIR$/test/test5.py" />
-        <option value="$PROJECT_DIR$/normalize.py" />
-        <option value="$PROJECT_DIR$/datamaker.py" />
         <option value="$PROJECT_DIR$/classification/UCMerced_LandUse/train.py" />
         <option value="$PROJECT_DIR$/classification/UCMerced_LandUse/trainer.py" />
         <option value="$PROJECT_DIR$/classification/UCMerced_LandUse/datamaker.py" />
@@ -348,9 +234,7 @@
         <option value="$PROJECT_DIR$/test/keras_test2.py" />
         <option value="$PROJECT_DIR$/test/keras_test5.py" />
         <option value="$PROJECT_DIR$/test/keras_test6.py" />
-        <option value="$PROJECT_DIR$/keras_train/NWPU.py" />
         <option value="$PROJECT_DIR$/keras_train/NWPU_vgg16.py" />
-        <option value="$PROJECT_DIR$/classification/dataset.py" />
         <option value="$PROJECT_DIR$/test/54342.py" />
         <option value="$PROJECT_DIR$/test/test21.py" />
         <option value="$PROJECT_DIR$/test/test23.py" />
@@ -362,15 +246,15 @@
         <option value="$PROJECT_DIR$/Demo/demo1.py" />
         <option value="$PROJECT_DIR$/Demo/Deno2.py" />
         <option value="$PROJECT_DIR$/classification/predict_UI.py" />
+        <option value="$PROJECT_DIR$/classification/dataset.py" />
+        <option value="$PROJECT_DIR$/Demo/Demo4.py" />
+        <option value="$PROJECT_DIR$/Demo/Deno3.py" />
+        <option value="$PROJECT_DIR$/test/test25.py" />
+        <option value="$PROJECT_DIR$/keras_train/NWPU.py" />
+        <option value="$PROJECT_DIR$/keras_train/UCM_SelfCNN.py" />
         <option value="$PROJECT_DIR$/keras_train/NWPU_vgg16_FineTune.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -398,7 +282,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -410,6 +293,11 @@
               <item name="satellite_image_scene_classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="satellite_image_scene_classification" type="462c0819:PsiDirectoryNode" />
               <item name="classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite_image_scene_classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite_image_scene_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="satellite_image_scene_classification" type="b2602c69:ProjectViewProjectNode" />
@@ -429,15 +317,22 @@
             <path>
               <item name="satellite_image_scene_classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="satellite_image_scene_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite_image_scene_classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite_image_scene_classification" type="462c0819:PsiDirectoryNode" />
               <item name="vgg16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -461,8 +356,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.uniformization">
-    <configuration name="NWPU_BIG_UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test25">
+    <configuration name="Demo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="satellite_image_scene_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -470,12 +365,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keras_predict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras_predict/NWPU_BIG_UI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/Demo4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -484,7 +379,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NWPU_UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Deno3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="satellite_image_scene_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -492,12 +387,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keras_predict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras_predict/NWPU_UI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/Deno3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -528,32 +423,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="img_cut" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="resize_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="satellite_image_scene_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/keras_predict" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras_predict/img_cut.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="resize_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="satellite_image_scene_classification" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pretreatment" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -569,10 +445,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="satellite_image_scene_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="uniformization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="satellite_image_scene_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pretreatment" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -589,19 +490,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.NWPU_UI" />
-      <item itemvalue="Python.NWPU_BIG_UI" />
-      <item itemvalue="Python.img_cut" />
       <item itemvalue="Python.resize_main" />
       <item itemvalue="Python.uniformization" />
+      <item itemvalue="Python.Deno3" />
+      <item itemvalue="Python.Demo4" />
+      <item itemvalue="Python.test25" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test25" />
+        <item itemvalue="Python.Deno3" />
+        <item itemvalue="Python.Demo4" />
         <item itemvalue="Python.uniformization" />
         <item itemvalue="Python.resize_main" />
-        <item itemvalue="Python.NWPU_BIG_UI" />
-        <item itemvalue="Python.img_cut" />
-        <item itemvalue="Python.NWPU_UI" />
       </list>
     </recent_temporary>
   </component>
@@ -615,8 +516,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547011987194</updated>
+      <workItem from="1556093899507" duration="3021000" />
+      <workItem from="1556175243582" duration="594000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -628,9 +534,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.17811158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.14377682" />
+      <window_info id="Structure" order="1" sideWeight="0.50448835" side_tool="true" weight="0.16763006" />
+      <window_info id="Favorites" order="2" sideWeight="0.50448835" side_tool="true" weight="0.16763006" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14554456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43564355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.19729729" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23891892" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.059036143" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.5844336" weight="0.8911368" />
+      <window_info anchor="right" id="R Graphics" order="4" sideWeight="0.49932158" weight="0.7716763" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.8429673" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.49826267" weight="0.7552987" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="7" sideWeight="0.41556635" side_tool="true" visible="true" weight="0.66165954" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.24277456" />
       <window_info id="Structure" order="1" sideWeight="0.50448835" side_tool="true" weight="0.16816431" />
       <window_info id="Favorites" order="2" sideWeight="0.50448835" side_tool="true" weight="0.16816431" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -645,7 +577,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32871288" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.21927711" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946752" visible="true" weight="0.098378375" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,13 +586,10 @@
       <window_info anchor="right" id="R Packages" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Database" order="6" sideWeight="0.49910232" weight="0.32960597" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="7" sideWeight="0.4148784" side_tool="true" weight="0.8461129" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1026,9 +955,6 @@
           <option name="timeStamp" value="722" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -1039,44 +965,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/keras/engine/training_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1203,13 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pretreatment/resize_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2068">
-          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/keras_test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1245,24 +1126,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classification/dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="138" column="76" lean-forward="true" selection-start-line="138" selection-start-column="76" selection-end-line="138" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1290,30 +1157,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="78" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16_FineTune.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classification/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="32" selection-start-line="32" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classification/train2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="626">
@@ -1325,20 +1168,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classification/train3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classification/train_class3_google_earth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/classification/train_class45_google_earth.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1350,32 +1180,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keras_train/NWPU.py">
+    <entry file="file://$PROJECT_DIR$/classification/predict_UI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test11.py">
+    <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_UI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1402,34 +1217,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/keras_predict/img_cut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="638">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classification/predict_UI.py">
+    <entry file="file://$PROJECT_DIR$/test/test11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="154">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_UI.py">
+    <entry file="file://$PROJECT_DIR$/test/test7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state>
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Deno3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_train/NWPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-end-line="109" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_train/UCM_SelfCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16_FineTune.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" selection-end-line="116" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pretreatment/resize_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="104" column="76" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" selection-start-line="32" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/keras_predict/NWPU_BIG_UI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/train_class3_google_earth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_train/NWPU_vgg16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
